@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155906159926",
+    "project_id": "cpdassignment-17477",
+    "storage_bucket": "cpdassignment-17477.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155906159926:android:8633e02c3c4841f4002f97",
+        "android_client_info": {
+          "package_name": "com.example.cpd_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZNbr54JvqF4bOKx84lPWi2qFg2HSEtn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
